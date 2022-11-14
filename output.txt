@@ -1,0 +1,1 @@
+this is 235re a test file created to remove the 7 special characters and multiple empty spaces contains in it
