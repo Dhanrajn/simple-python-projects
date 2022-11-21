@@ -27,7 +27,7 @@ def remove_all_space(file):
     data = ' '.join(data)
     open('output.txt', 'w').write(data)
     final_file = open('output.txt', 'w').write(data)
-    return  final_file
+    return final_file
 
 
 remove_all_space(text)
